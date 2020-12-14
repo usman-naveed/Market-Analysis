@@ -1,3 +1,3 @@
 # Market-Analysis
 
-Exploratory repo for market analysis. Data sourced from Kaggle. 
+Exploratory repo for market analysis. Technical Indicators have been implemented to the data after cleaning. Data sourced from Kaggle. 
